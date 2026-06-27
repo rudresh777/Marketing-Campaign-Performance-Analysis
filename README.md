@@ -61,9 +61,18 @@ This project provides insights into marketing effectiveness through data cleanin
 
 ## Dashboard Preview
 
-### Social Media Details
+### Overview Dashboard
+![Overview Dashboard](Images/Overview_Dashboard.png)
 
+### Customer Analysis
+![Customer Analysis](Images/Customer_Analysis.png)
+
+### Campaign Performance
+![Campaign Performance](Images/Campaign_Performance.png)
+
+### Social Media Details
 ![Social Media Details](Images/Social_Media_Details.png)
+
 
 ## Author
 
